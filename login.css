@@ -1,18 +1,10 @@
 body{
-    /* 
-    display: flex;
-    
-    margin-top: 6%;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
-
-
     margin: 0;
     display: flex;
     justify-content: center;
     height: 100%;
     width: 100%;
     padding: 90px 0;
-    /* background: #fff; */
     background: url(wanderer-high-resolution-logo.png);
     background-position: center;
     background-size: cover;
