@@ -90,6 +90,7 @@ a{
 .form-input a{
     margin-top: 10px;
     margin-left: 20px;
+    
 }
 
 .form-submit input{
@@ -98,5 +99,6 @@ a{
 
 .form-submit-signup{
     margin-top: 20px;
-    text-align: center;
+    text-align: center;
+    
 }
