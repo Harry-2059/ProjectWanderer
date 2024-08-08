@@ -1,0 +1,49 @@
+img{
+    width: 200px;
+}
+a,li{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+    font-size: large;
+    padding: 20px;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+  
+}
+h3{
+    background-color: blanchedalmond;
+    font-size: 30px;
+    text-align: center;
+}
+li:hover{
+  
+    background-color:maroon;
+    font-size: 30px;
+}
+a:hover{
+    color: white;
+    
+}
+.banks{
+   border: 2px solid ;
+   border-radius: 20px;
+}
+.ebanking{
+    text-align: center;
+   padding-top: 20px;
+ }
+ .khalti:hover{
+    background-color: brown;
+    border-radius: 2px;
+ }
+ .esewa:hover{
+    background-color: brown;
+
+    border-radius: 2px;
+ }
+ body{
+    background-image: url(dollar.jpg);
+ }

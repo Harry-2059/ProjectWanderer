@@ -1,0 +1,26 @@
+img{
+    width: 80%;
+    border: 2px solid bisque;
+    border-radius: 10px;
+    box-shadow: 10px 10px 7px black;
+}
+h2{
+    border: 3px solid antiquewhite;
+    background-color: antiquewhite;
+    border-radius: 12px;
+}
+h1{
+    text-align: center;
+    text-shadow: 2px 2px black;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+div{
+    text-align: center;
+}
+body{
+    background-image: url(bghotel.jpg);
+}
+.explore{
+    background-color: grey;
+}
