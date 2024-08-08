@@ -6,7 +6,9 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
-
+p{
+  text-align: center;
+}
 .about-us {
   display: flex;
   align-items: center;
@@ -22,7 +24,7 @@
 .pic {
   height: auto;
   width: 300px;
-  border-radius: 82px;
+  border-radius: 50px;
 }
 
 .about {
@@ -38,8 +40,9 @@
 }
 
 .text {
+  margin-left: 100px;
     text-align: center;
-  width: 540px;
+  width: 600px;
   border: 2px solid grey;
   border-radius: 10px;
 }
@@ -80,10 +83,15 @@ span {
   text-decoration: none;
   border: none;
   padding: 12px 25px;
-  border-radius: 6px;
-  transition: 0.5s;
+  border-radius: 10px;
+  width: 50%;
+  transition: 0.9s;
 }
 
 .linkedin:hover {
   background: #000;
+}
+.photo{
+  display:grid;
+  line-height: 30px;
 }
