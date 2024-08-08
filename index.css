@@ -122,8 +122,8 @@ img{
  width: 50px;
 }
 footer{
-    background-color: grey;
+   
     opacity: 0.5;
-    border-radius: 5px;
+    font-size: 40px;
    
 }
